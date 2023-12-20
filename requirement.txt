@@ -1,2 +1,0 @@
-streamlit
-nltk==3.10
